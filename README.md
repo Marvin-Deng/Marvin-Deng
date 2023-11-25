@@ -3,7 +3,7 @@
 ===================================================================================================================================
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+portfolio!&font=Fira%20Code&center=true&width=1000&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+portfolio!&font=Fira%20Code&width=1000&height=30">
 </p>
 
 
