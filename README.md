@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+portfolio!&font=Fira%20Code&width=1000&height=30">
 </p>
 
-
-I'm a self-driven Computer Science student at UCLA with passionate building projects that create meaningful impacts. I've had the privilege of closely engaging with accomplished engineers and researchers, which has fueled my curiosity and drive to innovate. Additionally, my internships and projects have provided me with invaluable experience, allowing me to refine my skills with the best practices. I'm excited to continue exploring the ever-evolving world of technology and leveraging innovative solutions to make a positive impact!
-
 ### Languages
 
 <p align="left">
